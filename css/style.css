@@ -1,0 +1,18 @@
+html,body{
+    display: block;
+    text-align: center;
+}
+
+.header{
+    width: fit-content;
+    padding: 1%;
+    background-color: chocolate;
+    color: white;
+}
+
+marquee{
+    background-color: green;
+    color: white;
+    padding: 1%;
+
+}
